@@ -29,6 +29,8 @@ songs that are trained on. It represents all the potential options that the netw
 To train the network, just run music_network.py. The songs it will currently take from are in 'nesmdb_midi/new_train_set'.
 It is a collection of Final Fantasy I music.
 
+This repo does not contain all the music files that I used, but if you would like a copy of them for the network, email me at <a href="mailto:tganderson0@gmail.com">tganderson0@gmail.com</a>
+
 ```shell script
 $ python3 music_network.py
 ```
