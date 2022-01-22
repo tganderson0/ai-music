@@ -1,4 +1,4 @@
-# Project 2 - CS5600
+# AI Music Creation - (Project 2 for CS5600)
 
 ## Overview
 
